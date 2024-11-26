@@ -78,7 +78,7 @@ const App = () => {
           </p>
           <button
             onClick={handleReset}
-            className="p-3 rounded-md text-2xl font-bold bg-black mt-5 text-white"
+            className="p-3.5 rounded-md text-2xl font-bold bg-black mt-5 text-white"
           >
             Play Again
           </button>
